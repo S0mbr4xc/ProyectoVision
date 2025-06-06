@@ -2,30 +2,33 @@ cmake_minimum_required(VERSION 3.10)
 project(ProyectoVisionQt)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_AUTOMOC ON)    # Para que Qt procese los .ui y genere los ui_*.h
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTORCC ON)
 
 find_package(Qt5 COMPONENTS Widgets REQUIRED)
 find_package(OpenCV REQUIRED)
 find_package(ITK REQUIRED)
 include(${ITK_USE_FILE})
 
+# Le decimos al compilador que busque encabezados también en src/
+include_directories(${CMAKE_SOURCE_DIR}/src)
+
+# Listamos todos los .cpp que van en el ejecutable:
 set(SRC_FILES
         src/main.cpp
         src/mainwindow.cpp
         src/Procesar.cpp
 )
-qt5_wrap_ui(UI_HEADERS src/mainwindow.ui)
-qt5_wrap_cpp(MOC_SOURCES src/mainwindow.h)
 
-include_directories(
-        ${CMAKE_CURRENT_SOURCE_DIR}/src
-        ${CMAKE_CURRENT_BINARY_DIR}
+# Aquí va el .ui para que AUTOUIC lo procese
+set(UI_FILES
+        src/mainwindow.ui
 )
 
 add_executable(ProyectoVisionQt
         ${SRC_FILES}
-        ${UI_HEADERS}
-        ${MOC_SOURCES}
+        ${UI_FILES}
 )
 
 target_link_libraries(ProyectoVisionQt

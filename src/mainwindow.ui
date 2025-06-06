@@ -3,25 +3,190 @@
     <class>MainWindow</class>
     <widget class="QMainWindow" name="MainWindow">
         <property name="geometry">
-            <rect><x>0</x><y>0</y><width>1200</width><height>650</height></rect>
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>1400</width>
+                <height>700</height>
+            </rect>
         </property>
         <widget class="QWidget" name="centralwidget">
             <layout class="QVBoxLayout" name="verticalLayout">
+                <!-- Paciente selector -->
                 <item>
                     <widget class="QComboBox" name="patientCombo"/>
                 </item>
+                <!-- Indicador de slice actual -->
                 <item>
-                    <layout class="QHBoxLayout" name="horizontalLayout">
-                        <item><widget class="QLabel" name="labelImage"/></item>
-                        <item><widget class="QLabel" name="labelMask"/></item>
-                        <item><widget class="QLabel" name="labelCombined"/></item>
+                    <widget class="QLabel" name="sliceLabel">
+                        <property name="text">
+                            <string>Slice: 0 / 0</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <!-- Filtros + imágenes -->
+                <item>
+                    <layout class="QHBoxLayout" name="horizontalLayoutFilters">
+                        <!-- Grupo de checkboxes para filtros -->
+                        <item>
+                            <widget class="QGroupBox" name="filterGroup">
+                                <property name="title">
+                                    <string>Filtros</string>
+                                </property>
+                                <layout class="QVBoxLayout" name="verticalLayoutFilters">
+                                    <item>
+                                        <widget class="QCheckBox" name="checkAniso">
+                                            <property name="text">
+                                                <string>Difusión Anisotrópica</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkSmooth">
+                                            <property name="text">
+                                                <string>Suavizado (Gaussian)</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkEqualize">
+                                            <property name="text">
+                                                <string>Ecualización Histograma</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkCLAHE">
+                                            <property name="text">
+                                                <string>CLAHE</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkThreshold">
+                                            <property name="text">
+                                                <string>Binarización</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkMorpho">
+                                            <property name="text">
+                                                <string>Operaciones Morfológicas</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkCanny">
+                                            <property name="text">
+                                                <string>Detección de Bordes (Canny)</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkNOT">
+                                            <property name="text">
+                                                <string>NOT</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkAND">
+                                            <property name="text">
+                                                <string>AND</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkOR">
+                                            <property name="text">
+                                                <string>OR</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QCheckBox" name="checkXOR">
+                                            <property name="text">
+                                                <string>XOR</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                </layout>
+                            </widget>
+                        </item>
+                        <!-- Contenedor de imágenes -->
+                        <item>
+                            <layout class="QHBoxLayout" name="horizontalLayoutImages">
+                                <item>
+                                    <widget class="QLabel" name="labelImage">
+                                        <property name="minimumSize">
+                                            <size>
+                                                <width>400</width>
+                                                <height>400</height>
+                                            </size>
+                                        </property>
+                                        <property name="alignment">
+                                            <set>Qt::AlignCenter</set>
+                                        </property>
+                                    </widget>
+                                </item>
+                                <item>
+                                    <widget class="QLabel" name="labelMask">
+                                        <property name="minimumSize">
+                                            <size>
+                                                <width>400</width>
+                                                <height>400</height>
+                                            </size>
+                                        </property>
+                                        <property name="alignment">
+                                            <set>Qt::AlignCenter</set>
+                                        </property>
+                                    </widget>
+                                </item>
+                                <item>
+                                    <widget class="QLabel" name="labelCombined">
+                                        <property name="minimumSize">
+                                            <size>
+                                                <width>400</width>
+                                                <height>400</height>
+                                            </size>
+                                        </property>
+                                        <property name="alignment">
+                                            <set>Qt::AlignCenter</set>
+                                        </property>
+                                    </widget>
+                                </item>
+                            </layout>
+                        </item>
                     </layout>
                 </item>
             </layout>
         </widget>
+        <!-- Toolbar con botones Prev/Next y Exportar estadísticas -->
         <widget class="QToolBar" name="toolBar">
-            <widget class="QPushButton" name="prevButton"><property name="text"><string>&lt; Prev</string></property></widget>
-            <widget class="QPushButton" name="nextButton"><property name="text"><string>Next &gt;</string></property></widget>
+            <widget class="QPushButton" name="prevButton">
+                <property name="text">
+                    <string>&lt; Prev</string>
+                </property>
+            </widget>
+            <widget class="QPushButton" name="nextButton">
+                <property name="text">
+                    <string>Next &gt;</string>
+                </property>
+            </widget>
+            <widget class="QPushButton" name="exportVideoButton">
+                <property name="text">
+                    <string>Exportar Video</string>
+                </property>
+            </widget>
+            <widget class="QPushButton" name="exportStatsButton">
+                <property name="text">
+                    <string>Exportar Estadísticas</string>
+                </property>
+            </widget>
         </widget>
     </widget>
     <resources/>

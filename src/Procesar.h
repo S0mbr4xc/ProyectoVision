@@ -6,16 +6,22 @@
 #include <itkImage.h>
 #include <itkImageFileReader.h>
 
+using ImageType = itk::Image<float, 3>;
+
 class Procesar {
 public:
-    explicit Procesar(const std::string &path);
-    cv::Mat obtenerSlice(int index);
+    // Constructor: abre un archivo .nii y carga el volumen
+    Procesar(const std::string &path);
+
+    // Devuelve la cantidad de slices (dimensión Z) del volumen
     int obtenerNumSlices() const;
 
+    // Extrae el slice número 'index' y lo convierte a cv::Mat en 8 bits
+    cv::Mat obtenerSlice(int index);
+
 private:
-    using ImageType = itk::Image<float, 3>;
-    ImageType::Pointer image;
-    int numSlices;
+    typename ImageType::Pointer image; // puntero al volumen 3D en ITK
+    int numSlices;                     // número de cortes (Z)
 };
 
 #endif // PROCESAR_H
