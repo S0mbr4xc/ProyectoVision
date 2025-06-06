@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProyectoVisionQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectoVisionQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectoVisionQt-Debug-cbd4fd3250f29b2ec475.json",
+					"name" : "ProyectoVisionQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectoVisionQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectoVisionQt_autogen-Debug-1650cd9e6306e3f40a64.json",
+					"name" : "ProyectoVisionQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectoVisionQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectoVisionQt_autogen_timestamp_deps-Debug-6693d0fe9f01161f68dd.json",
+					"name" : "ProyectoVisionQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug",
+		"source" : "/home/s0mbr4xc/CLionProjects/ProyectoVision"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

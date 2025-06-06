@@ -1,0 +1,5 @@
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/CMakeFiles/ProyectoVisionQt.dir
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/CMakeFiles/ProyectoVisionQt_autogen_timestamp_deps.dir
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/CMakeFiles/ProyectoVisionQt_autogen.dir

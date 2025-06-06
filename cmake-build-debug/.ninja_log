@@ -1,0 +1,27 @@
+# ninja log v6
+362	3136	1749234266891301137	CMakeFiles/ProyectoVisionQt.dir/ProyectoVisionQt_autogen/mocs_compilation.cpp.o	fd7745960f66c5f4
+4	21	1749239517276711619	ProyectoVisionQt_autogen/mocs_compilation.cpp	e87444989126870d
+4	10	1749231593771213866	src/moc_mainwindow.cpp	736d8201a9d0f6bf
+2761	4540	1749235317058546165	ProyectoVisionQt	a290227b147ae57c
+3	2157	1748478399861080846	CMakeFiles/ProyectoVision.dir/main.cpp.o	9fc58d45e4886369
+4	10	1749231593771213866	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/src/moc_mainwindow.cpp	736d8201a9d0f6bf
+22	2917	1749231914061119163	CMakeFiles/ProyectoVisionQt.dir/src/Procesar.cpp.o	7193c1ee92ee1af6
+362	3185	1749234266891301137	CMakeFiles/ProyectoVisionQt.dir/src/main.cpp.o	8e7ace31afe6b596
+22	2761	1749235314319526878	CMakeFiles/ProyectoVisionQt.dir/src/mainwindow.cpp.o	275d45c78b4122f6
+4	21	1749239517276711619	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ProyectoVisionQt_autogen/mocs_compilation.cpp	e87444989126870d
+4	21	1749239517276711619	ProyectoVisionQt_autogen/timestamp	e87444989126870d
+2157	2652	1748478402015072932	ProyectoVision	31b979a5372168e
+4	9	1749191801651605126	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ui_mainwindow.h	296b189dc420e208
+4	9	1749191801651605126	ui_mainwindow.h	296b189dc420e208
+50	2845	1749187733130585912	CMakeFiles/ProyectoVisionQt.dir/src/moc_mainwindow.cpp.o	f45552fe11324fa7
+2	90	1749231920876132119	build.ninja	e7cf0dbac803255d
+4	3189	1748457267396275734	CMakeFiles/ProyectoVision.dir/procesar.cpp.o	3258914bbf3b25ab
+4	21	1749239517276711619	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ProyectoVisionQt_autogen/timestamp	e87444989126870d
+5	412	1749239696239187076	ProyectoVisionQt_autogen/timestamp	e87444989126870d
+5	412	1749239696239187076	ProyectoVisionQt_autogen/mocs_compilation.cpp	e87444989126870d
+5	412	1749239696239187076	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ProyectoVisionQt_autogen/timestamp	e87444989126870d
+5	412	1749239696239187076	/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ProyectoVisionQt_autogen/mocs_compilation.cpp	e87444989126870d
+413	3604	1749239696245187093	CMakeFiles/ProyectoVisionQt.dir/src/main.cpp.o	8e7ace31afe6b596
+413	3612	1749239696245187093	CMakeFiles/ProyectoVisionQt.dir/ProyectoVisionQt_autogen/mocs_compilation.cpp.o	fd7745960f66c5f4
+413	3917	1749239696245187093	CMakeFiles/ProyectoVisionQt.dir/src/mainwindow.cpp.o	275d45c78b4122f6
+3917	5893	1749239699749197622	ProyectoVisionQt	a290227b147ae57c

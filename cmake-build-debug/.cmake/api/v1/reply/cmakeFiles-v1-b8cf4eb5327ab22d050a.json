@@ -1,0 +1,1018 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linker/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linker/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linker/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/Platform/Linker/Linux-GNU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/s0mbr4xc/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/ITKConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/ITKConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/ITKTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/ITKTargets-none.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/ITKModuleAPI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDoubleConversion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKKWIML.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKKWSys.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVNL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVNLInstantiation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKCurvatureFlow.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageAdaptors.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKNetlib.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKTransform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageGrid.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOImageBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOBMP.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/gdcm-3.0/GDCMConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/gdcm-3.0/GDCMConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/gdcm-3.0/GDCMTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/gdcm-3.0/GDCMTargets-none.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKZLIB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOGIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMetaIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOMeta.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKNIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIONIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKNrrdIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIONRRD.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKTestKernel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKLabelMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageCompose.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKPath.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageIntensity.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKConnectedComponents.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKBinaryMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageLabel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKNarrowBand.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDistanceMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKQuadEdgeMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKFastMarching.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageCompare.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageGradient.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageSources.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageFeature.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKOptimizers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKSignedDistanceFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKLevelSets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKAntiAlias.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKPolynomials.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKBiasCorrection.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKBioCell.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKColormap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKFFT.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKConvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDCMTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/dcmtk/DCMTKConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/dcmtk/DCMTKConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/dcmtk/DCMTKTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/dcmtk/DCMTKTargets-none.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDICOMParser.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDeconvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDeformableMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDenoising.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDisplacementField.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKV3Compatibility.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDeprecated.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOBioRad.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOLSM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOStimulate.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKRegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKDiffusionTensorImage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKEigen.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKExpat.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOXML.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKFEM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKFEMRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPURegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGPUThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKGoogleTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOBruker.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOCSV.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOGE.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOSiemens.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/LIBMINC/LIBMINCConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOMRC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIORAW.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKTransformFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOTransformBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOTransformHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOTransformInsightLegacy.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIOTransformMatlab.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageFusion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKImageNoise.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKIntegratedTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKKLMRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKLabelVoting.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMarkovRandomFieldsClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKNeuralNetworks.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKQuadEdgeMeshFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKSpatialFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVoronoi.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKWatersheds.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKLIBLBFGS.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKLevelSetsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKOptimizersv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKMetricsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKOpenJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKRegistrationMethodsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKReview.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVideoCore.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVideoIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/Modules/ITKVideoFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/UseITK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/itkImageIOFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/ITK-4.13/itkTransformIOFactoryRegisterManager.h.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug",
+		"source" : "/home/s0mbr4xc/CLionProjects/ProyectoVision"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

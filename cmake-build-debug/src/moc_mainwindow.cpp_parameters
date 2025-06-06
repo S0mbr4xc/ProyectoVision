@@ -1,0 +1,11 @@
+-I/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/ITKFactoryRegistration
+-I/usr/include
+-I/usr/include/hdf5/serial
+-I/usr/include/nifti
+-I/usr/include
+-I/usr/include/gdcm-3.0
+-I/usr/include/ITK-4.13
+-DITK_IO_FACTORY_REGISTER_MANAGER
+-o
+/home/s0mbr4xc/CLionProjects/ProyectoVision/cmake-build-debug/src/moc_mainwindow.cpp
+/home/s0mbr4xc/CLionProjects/ProyectoVision/src/mainwindow.h
